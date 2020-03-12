@@ -1,5 +1,5 @@
 #!/bin/sh
-ssh ubuntu@54.89.6.222 <<EOF
+ssh -tt ubuntu@54.89.6.222 <<EOF
     cd ~/node-app
     git pull origin master
     forever start index.js
