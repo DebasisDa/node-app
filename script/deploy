@@ -1,7 +1,6 @@
 #!/bin/sh
-ssh -tt -i ~/.ssh/id_rsa 172.31.42.201<<EOF
+ssh -tt -i ~/.ssh/id_rsa 172.31.42.201
     cd ~/node-app
     git pull origin master
     forever start index.js
     exit
-EOF
