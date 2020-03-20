@@ -6,3 +6,5 @@ https://medium.com/konvergen/jenkins-for-node-js-app-on-aws-ec2-part-3-jenkins-n
 
 
 https://linuxtechlab.com/how-to-easily-add-ssh-credentials-on-jenkins-server/
+
+https://linuxtechlab.com/how-to-easily-add-ssh-credentials-on-jenkins-server/
