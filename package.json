@@ -19,7 +19,7 @@
   "homepage": "https://github.com/DebasisDa/node-app#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mocha": "^7.1.0",
+    "mocha": "^10.2.0",
     "supertest": "^4.0.2"
   }
 }
